@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **Angular, Android, UI/UX**
 
-- 👨‍💻 All of my projects are available at [https://uciel-daro-portfolio.web.app](https://uciel-daro-portfolio.web.app)
-
-- 📝 I regularly write articles on [in/uciel-dar%C3%B3-12a568223](in/uciel-dar%C3%B3-12a568223)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/uciel-daró/)
 
 - 💬 Ask me about **html, css, scss, angular, java, typescript**
 
